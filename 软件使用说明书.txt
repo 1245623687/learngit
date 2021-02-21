@@ -6,3 +6,5 @@
 重点介绍
 第三章
 维护和保养
+Git is a distributed version control system.
+Git is free software
