@@ -7,7 +7,7 @@
 第三章
 维护和保养
 Git is a distributed version control system.
-Git is  free  software
+Git is  a good free  software
 Git is  free  software
 
 Git is a distributed version control system.
@@ -30,3 +30,5 @@ bug 分支
 bug 分支2
 bug 分支
 bug 分支2
+正在开发dev2。。。。，现在要去修改master分支。
+
