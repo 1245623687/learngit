@@ -10,3 +10,4 @@ test --no-ff
 push  dev by tester
 change dev on remote
 change dev on remote again
+test fetch on dev 
